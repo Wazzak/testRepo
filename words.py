@@ -1,1 +1,1 @@
-print("wew lad")
+print("fish")
